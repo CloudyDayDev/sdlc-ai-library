@@ -1,0 +1,47 @@
+[
+  {
+    "id": "BA-REQ-001",
+    "prefix": "BA-REQ",
+    "stage": "BA",
+    "title": "Business Requirements Document",
+    "uiGuidance": "Document the business requirements including functional and non-functional requirements.",
+    "version": "1.0.0",
+    "metadata": {
+      "author": "System",
+      "createdAt": "2026-01-01",
+      "updatedAt": "",
+      "tags": ["requirements", "business", "analysis"],
+      "description": "Standard business requirements document template"
+    }
+  },
+  {
+    "id": "BA-REQ-002",
+    "prefix": "BA-REQ",
+    "stage": "BA",
+    "title": "User Stories",
+    "uiGuidance": "Create user stories following the standard format: As a [user], I want [feature], so that [benefit].",
+    "version": "1.0.0",
+    "metadata": {
+      "author": "System",
+      "createdAt": "2026-01-01",
+      "updatedAt": "",
+      "tags": ["user-stories", "agile", "requirements"],
+      "description": "User story generation template"
+    }
+  },
+  {
+    "id": "BA-REQ-003",
+    "prefix": "BA-REQ",
+    "stage": "BA",
+    "title": "Use Case Document",
+    "uiGuidance": "Define use cases with actors, preconditions, main flow, and alternative flows.",
+    "version": "1.0.0",
+    "metadata": {
+      "author": "System",
+      "createdAt": "2026-01-01",
+      "updatedAt": "",
+      "tags": ["use-case", "uml", "analysis"],
+      "description": "Use case documentation template"
+    }
+  }
+]
